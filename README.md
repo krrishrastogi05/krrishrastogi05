@@ -23,7 +23,7 @@
 
 ## About
 
-Backend developer specializing in scalable systems and AI integration. Building production-grade solutions with Node.js, TypeScript, PostgreSQL, Redis, and LLM pipelines. Strong CS fundamentals in DSA, DBMS, OS, and CN.
+Backend developer specializing in scalable systems and AI integration. Building production-grade solutions with Node.js, TypeScript, PostgreSQL, Redis. Strong CS fundamentals in DSA, DBMS, OS, and CN.
 
 **Winner – Smart India Hackathon 2025** | **Top 75 – Amazon HackOn'25**
 
@@ -34,7 +34,7 @@ Backend developer specializing in scalable systems and AI integration. Building 
 **Backend & Systems:** Node.js · TypeScript · Express · REST APIs · Microservices · Redis  
 **Databases:** PostgreSQL · MongoDB · Prisma ORM  
 **Core:** C++ · DSA · Operating Systems · DBMS · Computer Networks  
-**AI/ML:** LLM Agents · RAG Systems · Generative AI Pipelines
+
 
 
 
