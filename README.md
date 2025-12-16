@@ -1,42 +1,65 @@
 # Krrish Rastogi
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00D9FF&background=0D111700&vCenter=true&multiline=false&width=500&height=60&lines=Full+Stack+Developer+%E2%9A%A1;Scalable+Backend+Design+%F0%9F%9A%80;GenAI+Explorer+%F0%9F%A7%A0;3rd+Year+%7C+BIT+Mesra+%F0%9F%8E%93" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=120&section=header&text=Scalable%20Backend%20Systems&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" />
+</div>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Building%20Scalable%20Systems&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=33FFCC&background=00000000&vCenter=true&width=500&lines=Full+Stack+Developer+%E2%9A%A1;Backend+Architect+%F0%9F%9A%80;GenAI+Innovator+%F0%9F%A7%A0;Winner+SIH+2025+%F0%9F%8F%86" alt="Typing SVG" />
+</div>
 
-<p align="left">
+<div align="center">
   <a href="https://github.com/krrishrastogi05">
-    <img src="https://komarev.com/ghpvc/?username=krrishrastogi05&style=flat-square&color=1a1b27" />
+    <img src="https://img.shields.io/github/followers/krrishrastogi05?style=for-the-badge&logo=github&color=000000&labelColor=1F1F1F" />
   </a>
-  <a href="https://github.com/krrishrastogi05?tab=followers">
-    <img src="https://img.shields.io/github/followers/krrishrastogi05?style=flat-square&color=1a1b27" />
+  <a href="https://www.linkedin.com/in/krrish-rastogi-a41712283/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=1F1F1F" />
   </a>
-</p>
+  <a href="mailto:krrishrastogi00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&labelColor=1F1F1F" />
+  </a>
+</div>
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/krrish-rastogi-a41712283/) • [Email](mailto:krrishrastogi00@gmail.com)
+<br />
 
----
+<div align="center">
+  <br />
+  <h3>🥇 Winner – Smart India Hackathon 2025 &nbsp; | &nbsp; 🏅 Top 75 – Amazon HackOn'25</h3>
+  <p>
+    Backend developer specializing in <b>scalable systems</b> and <b>AI integration</b>.<br/>
+    Building production-grade solutions with Node.js, TypeScript, PostgreSQL, and Redis.<br/>
+    <i>Strong CS fundamentals in DSA, DBMS, OS, and CN.</i>
+  </p>
+</div>
 
-## About
+<br />
 
-Backend developer specializing in scalable systems and AI integration. Building production-grade solutions with Node.js, TypeScript, PostgreSQL, Redis. Strong CS fundamentals in DSA, DBMS, OS, and CN.
+## ⚡ Tech Stack
 
-🥇 **Winner – Smart India Hackathon 2025** 
-🏅 **Top 75 – Amazon HackOn'25**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,cpp,python,postgres,redis,mongodb,docker,linux,git,prisma&theme=dark&perline=6" />
+</div>
 
----
+<br />
 
-## Tech Stack
+## 📊 GitHub Analytics
 
-**Backend & Systems:** Node.js · TypeScript · Express · REST APIs · Microservices · Redis  
-**Databases:** PostgreSQL · MongoDB · Prisma ORM  
-**Core:** C++ · DSA · Operating Systems · DBMS · Computer Networks  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krrishrastogi05&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrishrastogi05&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishrastogi05&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krrishrastogi05&style=flat-square&color=blueviolet" alt="profile counter" />
+</div>
+
+<br />
 
 <p align="center">
   <sub>Open to backend engineering roles and GenAI collaboration opportunities</sub>
