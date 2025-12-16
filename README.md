@@ -44,22 +44,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krrishrastogi05&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrishrastogi05&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishrastogi05&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krrishrastogi05&style=flat-square&color=blueviolet" alt="profile counter" />
-</div>
-
-<br />
 
 <p align="center">
   <sub>Open to backend engineering roles and GenAI collaboration opportunities</sub>
