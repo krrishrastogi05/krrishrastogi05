@@ -25,7 +25,8 @@
 
 Backend developer specializing in scalable systems and AI integration. Building production-grade solutions with Node.js, TypeScript, PostgreSQL, Redis. Strong CS fundamentals in DSA, DBMS, OS, and CN.
 
-🥇 **Winner – Smart India Hackathon 2025** 🏅 **Top 75 – Amazon HackOn'25**
+🥇 **Winner – Smart India Hackathon 2025** 
+🏅 **Top 75 – Amazon HackOn'25**
 
 ---
 
