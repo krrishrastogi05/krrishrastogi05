@@ -37,7 +37,7 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,cpp,python,postgres,redis,mongodb,docker,linux,git,prisma&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,cpp,python,postgres,redis,mongodb,linux,git,prisma&theme=dark&perline=6" />
 </div>
 
 <br />
