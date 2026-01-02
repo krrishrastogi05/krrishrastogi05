@@ -50,7 +50,7 @@
 </div> 
 
 <div align="center">
-<a href="https://leetcode.com/ishansiddhartha">
+<a href="https://leetcode.com/godsownsoldier">
 <img src="https://leetcard.jacoblin.cool/ishansiddhartha?ext=heatmap" width="400" alt="Leetcode Stats"/>
 </a>
 </div>
