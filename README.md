@@ -51,7 +51,7 @@
 
 <div align="center">
 <a href="https://leetcode.com/godsownsoldier">
-<img src="https://leetcard.jacoblin.cool/ishansiddhartha?ext=heatmap" width="400" alt="Leetcode Stats"/>
+<img src="https://leetcard.jacoblin.cool/godsownsoldier?ext=heatmap" width="400" alt="Leetcode Stats"/>
 </a>
 </div>
 
