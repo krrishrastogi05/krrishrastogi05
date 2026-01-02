@@ -49,6 +49,13 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D City" />
 </div> 
 
+<div align="center">
+<a href="https://leetcode.com/ishansiddhartha">
+<img src="https://leetcard.jacoblin.cool/ishansiddhartha?ext=heatmap" width="400" alt="Leetcode Stats"/>
+</a>
+</div>
+
+
 <p align="center">
   <sub>Open to backend engineering roles and GenAI collaboration opportunities</sub>
 </p>
