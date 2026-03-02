@@ -1,12 +1,12 @@
 # Krrish Rastogi
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=120&section=header&text=Scalable%20Backend%20Systems&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=33FFCC&background=00000000&vCenter=true&width=500&lines=Full+Stack+Developer+%E2%9A%A1;Backend+Architect+%F0%9F%9A%80;GenAI+Innovator+%F0%9F%A7%A0;Winner+SIH+2025+%F0%9F%8F%86" alt="Typing SVG" />
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://github.com/krrishrastogi05">
