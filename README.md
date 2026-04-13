@@ -38,8 +38,10 @@ B.Tech in AI & Machine Learning at **BIT Mesra** (CGPA 8.7). I build production 
 ### My Blogs
 ![DU0](https://github.com/user-attachments/assets/09b8d415-dfbd-4eb4-ba31-65e450251e9d)
 
-
+Blog on how competitive programming extensions work
 https://new-portfolio-rose-delta.vercel.app/blogs/how-competitive-programming-extensions-work-under-the-hood
+
+Blog on a Palindromic DP (Algorithmic Problem Pattern)
 https://new-portfolio-rose-delta.vercel.app/blogs/palindromic-dp
 
 
