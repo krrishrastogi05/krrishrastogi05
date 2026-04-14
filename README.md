@@ -32,7 +32,7 @@ B.Tech in AI & Machine Learning at **BIT Mesra** (CGPA 8.7). I build production 
 | **UIDAI Aadhaar Datathon** | National Finalist |
 | **LeetCode Knight** | Rating 1900+, Global Top 5% |
 | **UN-OICT** | Open Source Contributor |
-| **GP Birla Merit Scholarship** | Rs. ~1.4L for academic excellence |
+| **GP Birla Merit Scholarship** | 3X 1500$ for academic excellence |
 
 ---
 ### My Blogs
